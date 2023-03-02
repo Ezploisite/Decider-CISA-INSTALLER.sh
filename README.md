@@ -1,1 +1,1 @@
-# Decider-CISA-INSTALLER.sh
+# Decider-INSTALLER.sh
