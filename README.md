@@ -11,7 +11,6 @@ The installer has been tested on few operating systems, including:
 ```
 Ubuntu LTS 22.04.1
 Ubuntu Server 22.04.1
-Docker 23.0.1 - Image Ubuntu
 Kali 2022.4
 ```
 
