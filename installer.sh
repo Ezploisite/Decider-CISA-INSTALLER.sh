@@ -11,9 +11,10 @@ echo " "
 echo  "x================================================================================================x"
 echo ""
 echo " Usage:"
-echo "        --i (The -i command will install all the NECESSARY dependencies to start Decider)"
-echo "        --o (The -o command will configure and install all the OPTIONAL requirements for Decider)" #WILL BE RELEASED SOON
-echo "        --A (The -A command will both install NECESSARY and OPTIONAL requirements for Decider)" #WILL BE RELEASED SOON
+echo "        --i (The --i command will install all the NECESSARY dependencies to start Decider)"
+echo "        --o (The --o command will configure and install all the OPTIONAL requirements for Decider)" #WILL BE RELEASED SOON
+echo "        --A (The --A command will both install NECESSARY and OPTIONAL requirements for Decider)" #WILL BE RELEASED SOON
+echo "        --u (The --u command will both install 
 echo "        --batch (The --batch command will automatically set the value to Y when prompted to avoid user interaction..)"
 echo ""
 echo  "x================================================================================================x"
