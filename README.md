@@ -49,8 +49,10 @@ In the event that any resources belonging to the government agency CISA Gov are 
 
 If you believe that any information published on this website is defamatory, constitutes a violation of copyright or other intellectual property rights, or violates any other legal rights, please contact the project author at the following references:
 
+```
 E-mail: lorenzoalbanofontanot@proton.me
 E-mail: lorenzoalbanofontanot@gmail.com
+```
 
 Alternatively, you can request the Ttakedown of the repository by contacting Ezploisite on this Github profile.
 
