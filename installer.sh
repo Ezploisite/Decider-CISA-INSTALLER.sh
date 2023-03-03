@@ -2,7 +2,7 @@
 
 echo ""
 echo  "x================================================================================================x"  
-echo  "                                  Decider CISA GOV AUTO installer                                 "
+echo  "                                  Decider CISA installer                                 "
 echo ""
 echo " [+] Developed by l.albano | 2023 "
 echo " [+] Tested on Ubuntu 22.04.1 LTS and Server"
