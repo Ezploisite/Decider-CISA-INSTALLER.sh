@@ -36,3 +36,30 @@ sudo chmod +x installer.sh
 ```
 sudo bash installer.sh --i --batch
 ```
+
+## Authors
+
+* **Lorenzo Albano Fontanot** - *Initial work* - [Ezploisite](https://github.com/Ezploisite)
+
+## Disclaimer
+
+The author of the project and the repository are completely independent, not affiliated, associated, or endorsed in any way by the government entity CISA Gov. All information provided is for support purposes only and does not intend to in any way damage the reputation of the owning organization, therefore, all rights remain reserved to CISA Gov.
+
+In the event that any resources belonging to the government agency CISA Gov are found to be infringing on any laws, regulations or policies, the authors of this project and repository hereby declare themselves to be extremely collaborative and willing to cooperate with CISA Gov in order to resolve the matter in a timely and satisfactory manner. We are not affiliated with CISA Gov, but we are committed to maintaining good faith and to act in compliance with all applicable laws and regulations. We reserve the right to remove any infringing content, upon notice and request from CISA Gov, while reserving our rights to defend our position to the extent permitted by applicable laws.
+
+If you believe that any information published on this website is defamatory, constitutes a violation of copyright or other intellectual property rights, or violates any other legal rights, please contact the project author at the following references:
+
+E-mail: lorenzoalbanofontanot@proton.me
+E-mail: lorenzoalbanofontanot@gmail.com
+
+Alternatively, you can request the Ttakedown of the repository by contacting Ezploisite on this Github profile.
+
+## Terms of use
+
+* You are free to edit this script as you wish.
+* Don't forget to let me know if the script was useful to you.
+
+## Acknowledgments
+
+* Thanks if you'll choose to use this script.
+
