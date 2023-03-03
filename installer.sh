@@ -257,8 +257,6 @@ conf_configs = [
     PytestConfig,
 ]" | sudo tee /etc/decider/app/conf.py >/dev/null
 
-echo "OK."
-
     sleep 2
 
 echo ""
