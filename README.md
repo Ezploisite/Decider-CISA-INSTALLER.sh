@@ -24,15 +24,15 @@ As a BETA version, the installer.sh has not been tested on a multitude of enviro
 
 For best results, it is recommended to install version 22.04.1 of the Ubuntu distribution, ensure that you are in the /home/user/ directory of the non-root user of the system, and sequentially run the following commands:
 
-(1) Make sure you are in the home directory of the system user. 
+1. Make sure you are in the home directory of the system user. 
 ```
 cd /home/$USER/ 
 ```
-(2) Once you have downloaded the script in the current directory, give execution permissions. 
+2. Once you have downloaded the script in the current directory, give execution permissions. 
 ```
 sudo chmod +x installer.sh
 ```
-(3) Run the script with the following arguments:
+3. Run the script with the following arguments:
 ```
 sudo bash installer.sh --i --batch
 ```
