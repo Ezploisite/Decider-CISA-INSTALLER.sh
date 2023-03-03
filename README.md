@@ -1,4 +1,4 @@
-# Decider-INSTALLER.sh
+# Decider INSTALLER guide
 
 
 Through the release of Decider software by the American governmental organization CISA GOV, an automatic approach is offered to categorize and map threats using the metrics of MITRE ATT&CK®. This makes the process of threat classification and comprehension extremely fast and versatile. Additionally, a dedicated and highly user-friendly GUI provides an extremely resilient and scalable contextualization capability for the end-user.
