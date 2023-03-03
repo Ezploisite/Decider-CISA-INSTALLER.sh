@@ -1,5 +1,5 @@
 ![CISA](https://i.postimg.cc/jjfL0wQr/Immagine-2023-03-03-135805.jpg)
-# Install documentation for Decider's AUTO installer.sh
+# Install documentation for Decider's installer.sh
 
 
 Through the release of Decider software by the American governmental organization CISA (Cybersecurity and Infrastructure Security Agency), an automatic approach is offered to categorize and map threats using the metrics of MITRE ATT&CK®. This makes the process of threat classification and comprehension extremely fast and versatile. Additionally, a dedicated and highly user-friendly GUI provides an extremely resilient and scalable contextualization capability for the end-user.
