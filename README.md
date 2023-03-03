@@ -53,7 +53,7 @@ E-mail: lorenzoalbanofontanot@proton.me
 E-mail: lorenzoalbanofontanot@gmail.com
 ```
 
-Alternatively, you can request the Ttakedown of the repository by contacting Ezploisite on this Github profile.
+Alternatively, you can request the Takedown of the repository by contacting Ezploisite on his Github profile.
 
 ## Terms of use
 
