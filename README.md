@@ -1,4 +1,4 @@
-![testo alternativo](https://i.postimg.cc/gcTdDBdx/Immagine-2023-03-03-135805.jpg)
+![CISA](https://postimg.cc/XrbFSVT3)
 # Install documentation for Decider's AUTO installer.sh
 
 
