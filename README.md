@@ -1,4 +1,4 @@
-!(https://i.postimg.cc/gcTdDBdx/Immagine-2023-03-03-135805.jpg)
+![testo alternativo](https://i.postimg.cc/gcTdDBdx/Immagine-2023-03-03-135805.jpg)
 # Install documentation for Decider's AUTO installer.sh
 
 
