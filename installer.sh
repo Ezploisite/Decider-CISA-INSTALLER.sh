@@ -83,9 +83,9 @@ echo ""
 
     sudo apt install postgresql postgresql-contrib
     sudo systemctl start postgresql && sudo systemctl enable postgresql
-    cd /home/ezq/Documents/
+    cd /home/$USER/Documents/
     sudo git clone https://github.com/cisagov/decider.git
-    sudo mv /home/ezq/Documents/decider /etc/decider/
+    sudo mv /home/$USER/Documents/decider /etc/decider/
     cd /etc/decider/
 
     sleep 1
